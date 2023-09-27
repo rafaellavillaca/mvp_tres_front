@@ -1,12 +1,10 @@
 # Meu Front-end em React
 
-MVP Front end Avancado
+Api externa:
 
+Quote: http://api.forismatic.com/api/1.0/
 
-
-# Meu Front
-
-Este pequeno projeto faz parte do material extra da Disciplina **Desenvolvimento Back End Avançado e Arquitetura de Software** 
+Fun Fact: https://uselessfacts.jsph.pl/api/v2/facts/random?language=en
 
 ## Como executar através do Docker
 
